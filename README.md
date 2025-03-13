@@ -48,6 +48,8 @@ Para executar este projeto, você precisará das bibliotecas Python listadas no 
 Você pode instalar todas as dependências usando o seguinte comando:
 ```bash
 pip install -r requirements.txt
+```
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de criar um modelo de aprendizado profundo capaz de classificar doenças em imagens de raios-X de tórax. Utilizamos técnicas avançadas de processamento de imagens e aprendizado de máquina para treinar um modelo de rede neural convolucional (CNN) que pode identificar várias condições médicas a partir das imagens. Pretense-se adicionar outras tecnicas de classificação ao projeto.
